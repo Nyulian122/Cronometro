@@ -1,0 +1,42 @@
+.cronometro{
+    font-size: 10rem;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+label {
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.entrada {
+    width: 200px;
+    height: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.boton{
+    width: 5rem;
+    height: 1rem;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
